@@ -125,5 +125,7 @@ dmypy.json
 .pyre/
 
 
-# data dir
+# data dir and files
 data/
+*.zip
+*.csv
