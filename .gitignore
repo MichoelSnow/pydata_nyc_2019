@@ -126,6 +126,7 @@ dmypy.json
 
 
 # data dir and files
-data/
+/data/
 *.zip
 *.csv
+*.feather
