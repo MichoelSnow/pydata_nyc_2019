@@ -11,7 +11,6 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
@@ -127,6 +126,4 @@ dmypy.json
 
 # data dir and files
 /data/
-*.zip
-*.csv
-*.feather
+data/
