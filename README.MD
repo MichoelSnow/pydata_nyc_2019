@@ -1,4 +1,4 @@
-# PyData NYC 2018: Hacking the Data Science Challenge
+# PyData NYC 2019: Hacking the Data Science Challenge
 
 
 
